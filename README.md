@@ -20,6 +20,8 @@ Currently, two official plugins are available:
 </li>
 <li>
   ![image](https://github.com/Pranshu1sati/Waterdip-Ai-Task/assets/95905172/162e07f1-36cb-4839-a4c7-0ce588be1ed9)
+  
+  ![image](https://github.com/Pranshu1sati/Waterdip-Ai-Task/assets/95905172/df450ba0-0865-4484-856b-4a013668d20d)
 
 </li>
 <li>
