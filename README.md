@@ -24,6 +24,9 @@ Currently, two official plugins are available:
   
   ![image](https://github.com/Pranshu1sati/Waterdip-Ai-Task/assets/95905172/cdcf1926-e475-41fc-9e7e-03121d4cd216)
 
+  ![image](https://github.com/Pranshu1sati/Waterdip-Ai-Task/assets/95905172/dc54f909-accd-4a66-a197-8683375d4db3)
+  <p>(With ToolTip)</p>
+  
 </li>
 <li>
   Sparkaline Chart
