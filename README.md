@@ -3,7 +3,7 @@
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
-<h1>Check Out Live Demo At the link <a>https://pranshu1sati.github.io/Waterdip-Ai-Task/</a></h1>
+<h1>Check Out Live Demo At the link by clicking<a href="https://pranshu1sati.github.io/Waterdip-Ai-Task/"> here</a></h1>
 <h2>Built with React and ApexCharts library and converting the data to a json file</h2>
 <h2>ScreenShots</h2>
 <ul>
