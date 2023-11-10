@@ -10,7 +10,6 @@ Currently, two official plugins are available:
   
   <li>
     Date Selector component
-    
     ![image](https://github.com/Pranshu1sati/Waterdip-Ai-Task/assets/95905172/730b3de9-c160-4308-92df-168698023916)
 </li>
 <li>
