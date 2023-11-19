@@ -13,7 +13,7 @@ Currently, two official plugins are available:
 
 
     
-  ![image](https://github.com/Pranshu1sati/Waterdip-Ai-Task/assets/95905172/730b3de9-c160-4308-92df-168698023916)
+  ![image](https://github.com/Pranshu1sati/Waterdip-Ai-Task/assets/95905172/730b3de9-c160-4308-92df-168698023916 =150x150)
   
 
 </li>
